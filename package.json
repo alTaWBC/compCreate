@@ -1,6 +1,7 @@
 {
 	"name": "compCreate",
 	"displayName": "component_create",
+	"publisher": "alTaWBC",
 	"description": "Creates a Component javascript with its respective css file",
 	"version": "0.0.1",
 	"engines": {
